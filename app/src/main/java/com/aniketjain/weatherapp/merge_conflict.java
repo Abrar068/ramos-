@@ -1,7 +1,10 @@
 package com.aniketjain.weatherapp;
 
 public class merge_conflict {
+
     double roll;
+
+
     String name;
 
     public merge_conflict(int roll, String name) {
